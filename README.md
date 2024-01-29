@@ -20,7 +20,7 @@ As a **Data Analyst**, I bring a strong foundation in statistical analysis, data
 Check out my projects on [GitHub](https://github.com/Vipk8/vkrepo).
 
 ## Connect with Me 🌐
-- [LinkedIn](linkedin.com/in/vivek-p-a10814102)
+- [LinkedIn](www.linkedin.com/in/vivek-p-a10814102)
 - Email: vivekpandey1378@gmail.com 
 
 ## Work Experience 💼
