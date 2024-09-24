@@ -1,7 +1,7 @@
 # VIVEK PANDEY 🚀
 
 ## Connect with Me 🌐
-- Linkedin: www.linkedin.com/in/vivek-p-a10814102
+- Linkedin: www.linkedin.com/in/vivek-pandey-95v
 - Email: vivekpandey1378@gmail.com 
 
 ## About Me 📌
