@@ -17,7 +17,7 @@ As a **Data Analyst**, I bring a strong foundation in statistical analysis, data
 - Matplotlib, Seaborn, SciPy, Beautiful Soup
 
 ## Database 💽
-- MySQL, PostgreSQL- 
+- MySQL, PostgreSQL
 ## Work Experience 💼
 ### Data Analyst
 - Proficient in data analysis and visualization tools such as Python, SQL, and data visualization software.
